@@ -1,0 +1,41 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  resultId: 1
+  race: one
+  driver: one
+  constructor: one
+  number: MyString
+  grid: 1
+  position: 1
+  positionText: MyString
+  positionOrder: MyString
+  points: 1
+  laps: 1
+  time: MyString
+  milliseconds: 
+  fastestLap: MyString
+  rank: 1
+  fastestLapTime: MyString
+  fastestLapSpeed: 1.5
+  status: one
+
+two:
+  resultId: 1
+  race: two
+  driver: two
+  constructor: two
+  number: MyString
+  grid: 1
+  position: 1
+  positionText: MyString
+  positionOrder: MyString
+  points: 1
+  laps: 1
+  time: MyString
+  milliseconds: 
+  fastestLap: MyString
+  rank: 1
+  fastestLapTime: MyString
+  fastestLapSpeed: 1.5
+  status: two

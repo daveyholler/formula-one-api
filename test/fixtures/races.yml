@@ -1,0 +1,21 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  raceId: 1
+  year: 1
+  round: 1
+  circuit: one
+  name: MyString
+  date: MyString
+  time: MyString
+  url: MyString
+
+two:
+  raceId: 1
+  year: 1
+  round: 1
+  circuit: two
+  name: MyString
+  date: MyString
+  time: MyString
+  url: MyString

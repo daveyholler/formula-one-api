@@ -1,0 +1,23 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  qualifyId: 1
+  race: one
+  driver: one
+  constructor: one
+  number: 1
+  position: 1
+  q1: MyString
+  q2: MyString
+  q3: MyString
+
+two:
+  qualifyId: 1
+  race: two
+  driver: two
+  constructor: two
+  number: 1
+  position: 1
+  q1: MyString
+  q2: MyString
+  q3: MyString

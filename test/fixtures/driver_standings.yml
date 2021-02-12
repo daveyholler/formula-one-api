@@ -1,0 +1,19 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  driverStandingsId: 1
+  race: one
+  driver: one
+  points: 1
+  position: 1
+  positionText: MyString
+  wins: 1
+
+two:
+  driverStandingsId: 1
+  race: two
+  driver: two
+  points: 1
+  position: 1
+  positionText: MyString
+  wins: 1
